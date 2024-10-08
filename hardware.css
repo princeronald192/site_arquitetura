@@ -1,0 +1,9 @@
+div{
+    background-color: rgb(182, 64, 152);
+    margin-bottom: 5px;
+    border: 1px saddlebrown;
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(17, 16, 13);
+}
